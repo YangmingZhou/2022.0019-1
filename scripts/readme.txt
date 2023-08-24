@@ -28,3 +28,12 @@ NbrRepats is the number of times of running the program
 ————————————————————————————————————————
 ./ELAHC.exe  InstanceName  Dataset  TimeLimit  NbrRepeats
 ————————————————————————————————————————
+
+Under a Windows OS system, please run the executable program 'LAHC.exe' with the following five parameters
+InstanceName is the name of each instance
+Dataset is the type of tested instance
+TimeLimit is the time limit (in seconds) for each run of the program
+NbrRepats is the number of times of running the program
+————————————————————————————————————————
+./LAHC.exe  InstanceName  Dataset  TimeLimit  NbrRepeats
+————————————————————————————————————————
