@@ -9,7 +9,7 @@ Rank aggregation combines the preference rankings of multiple alternatives from 
 Rank Aggregation; Label Ranking; Machine Learning; Evolutionary Computation; Metaheuristics.
 
 ## Instances and results
-We have considered two classes of rank aggregation problem (RAP) instances, called synthetic instances and real-world instances, which can be found in the two folders "RAP_synthetic" and "RAP_realworld" of the subdirectory"data" of HER, respectively. Also, we provide benchmark datasets for label ranking (LR), called semi-synthetic datasets and real-world datasets, which can be found in the two folders "LR_synthetic" and "LR_realworld" of the subdirectory"data" of labelranking, respectively. 
+We have considered two classes of rank aggregation problem (RAP) instances, called synthetic instances and real-world instances, which can be found in the two folders "RAP_syntheti benchmark.zip" and "RAP_realworld benchmark.zip" of the subdirectory"data" of HER, respectively. Also, we provide benchmark datasets for label ranking (LR), called semi-synthetic datasets and real-world datasets, which can be found in the two folders "LR_synthetic data.rar" and "LR_realworld data.rar" of the subdirectory"data" of labelranking, respectively. 
 
 The specific illustration of instances can be found in the file "readme.txt"  in each folder for each type of instance. The source files for the method HER  are in "src". The method HER is coded with C++. Guidance for implementation can be found in the file "readme.txt". Meanwhile, the results output and figures by these methods are available in the folder “results”. The data and source of label ranking are available in the folder "labelranking". Each folder also contains a "readme.txt". 
 
