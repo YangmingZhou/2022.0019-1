@@ -1,3 +1,7 @@
 # Rank Aggregation Problem Instances
 1. Realworld Benchmark
+Real-world instances were obtained from practical applications: Sushi consists of 5,000 responses to a questionnaire in which the participants have to rank 
+favors of sushi in order of preference, where m= 100 and n = 5000; F1 is the set of the orders in which the 25 drivers finished at each one of the 20 Grand Prix celebrated at the Formula 1 driver championship during 2012, hence m = 25 and n = 20; Tour is based on the 2012 edition of the Tour of France, where each ranking contains the order in which the 153 cyclists that complete the Tour finished at each of the 20 stages. ATPMen50, ATPMen100, and ATPMen200 are based on the ATP ranking of male tennis players in 2014, and ATPWomen50, ATPWomen100, and ATPWomen200 are based on the ATP ranking of female tennis players in 2014. There are n =52 rankings corresponding to the weeks of 2014.
+
 2. Synthetic Benchmark
+Synthetic instances were sampled from the Mallows distribution. To dene a standard Mallows distribution, three parameters are required: the center permutation \pi_0, the spread parameter \theta, and the length of the permutation m. In addition, the number of permutations to be sampled n is also needed to dene a practical instance. For this category of instances, \pi_0 is always set to the identity permutation \pi_0 = (1,2,...,m), \theta \in {0.001,0.01,.1,0.2}, m \in {50,100,150,200,250}, and n=100. For each of the 20 combinations of \theta and m, 20 instances with n=100 permutations were generated. 
