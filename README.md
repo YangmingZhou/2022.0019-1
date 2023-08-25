@@ -22,7 +22,7 @@ DOI:10.1287/ijoc.2022.0019.cd
 
 Below is the BibTex for citing this version of the code.
 ~~~
-@article{detectnode,
+@article{rankaggregate,
   title={Heuristic Search for Rank Aggregation with Application to Label Ranking},
   author={Yangming Zhou and Jin-Kao Hao and Zhen Li and Fred Glover},
   publisher={{INFORMS Journal on Computing}},
