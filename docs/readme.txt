@@ -1,1 +1,1 @@
-This file contains some online supplement
+This file contains an online supplement
