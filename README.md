@@ -14,7 +14,7 @@ We have considered two classes of rank aggregation problem (RAP) instances, call
 The specific illustration of instances can be found in the file "readme.txt"  in each folder for each type of instance. The source files for the HER method are in "src". The HER method is coded with C++. Guidance for implementation can be found in the file "readme.txt". Meanwhile, the results output and figures by these methods are available in the folder “results”. The data and source of label ranking are available in the folder "labelranking". Each folder also contains a "readme.txt". 
 
 ## Paper Entry
-Yangming Zhou, Jin-Kao Hao, Zhen Li, Fred Glover. ["Heuristic Search for Rank Aggregation with Application to Label Ranking"](https://doi.org/10.1287/ijoc.2022.0019). INFORMS Journal On Computing, 2023.
+Yangming Zhou, Jin-Kao Hao, Zhen Li. ["Heuristic Search for Rank Aggregation with Application to Label Ranking"](https://doi.org/10.1287/ijoc.2022.0019). INFORMS Journal On Computing, 2023.
 
 ## Cite
 To cite this code, please cite the paper using its DOI and the code itself, using the following DOI.\
@@ -24,7 +24,7 @@ Below is the BibTex for citing this version of the code.
 ~~~
 @article{rankaggregate,
   title={Heuristic Search for Rank Aggregation with Application to Label Ranking},
-  author={Yangming Zhou and Jin-Kao Hao and Zhen Li and Fred Glover},
+  author={Yangming Zhou and Jin-Kao Hao and Zhen Li},
   publisher={{INFORMS Journal on Computing}},
   year={2023},
   doi={10.1287/ijoc.2022.0019cd},
